@@ -18,49 +18,49 @@
    </tr>
   <tr align="center">
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>1x<br>休息日</td>
       <td>2✔<br>综合热身一组<br>深蹲跳12x4<br>交替箭步蹲12x3<br>杠铃硬拉 12x4<br>卷腹 12x4<br>俄罗斯转体12x4<br>全身拉伸一组</td>
       <td>3×<br>休息日</td>
+   </tr>
+  <tr align="center">
       <td>4✔<br>综合热身一组<br>腹肌撕裂者强化<br>全身肌肉放松</td>
       <td>5×<br>休息日</td>
       <td>6✔<br>综合热身一组<br>哑铃胸部塑形<br>全身肌肉放松</td>
-   </tr>
-  <tr align="center">
       <td>7×<br>受伤暂停训练</td>
       <td>8×<br>受伤暂停训练</td>
       <td>9×<br>受伤暂停训练</td>
       <td>10×<br>受伤暂停训练</td>
+  </tr>
+  <tr align="center">
       <td>11×<br>受伤暂停训练</td>
       <td>12×<br>受伤暂停训练</td>
       <td>13✔<br>田径场跑步 6 公里</td>
-   </tr>
-  <tr align="center">
       <td>14</td>
       <td>15</td>
       <td>16</td>
       <td>17</td>
+  </tr>
+  <tr align="center">
       <td>18</td>
       <td>19</td>
       <td>20</td>
-   </tr>
-  <tr align="center">
       <td>21</td>
       <td>22</td>
       <td>23</td>
       <td>24</td>
+  </tr>
+  <tr align="center">
       <td>25</td>
       <td>26</td>
       <td>27</td>
-   </tr>
-  <tr align="center">
       <td>28</td>
       <td>29</td>
       <td>30</td>
       <td>31</td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
+  </tr>
 </table>
 
 ## LICENSE
