@@ -18,12 +18,12 @@
    </tr>
   <tr align="center">
       <td></td>
-      <td>1×<br>休息日</td>
+      <td>1x<br>休息日</td>
       <td>2✔<br>综合热身一组<br>深蹲跳12x4<br>交替箭步蹲12x3<br>杠铃硬拉 12x4<br>卷腹 12x4<br>俄罗斯转体12x4<br>全身拉伸一组</td>
-      <td>3×<br>受伤暂停训练</td>
-      <td>4×<br>受伤暂停训练</td>
-      <td>5×<br>受伤暂停训练</td>
-      <td>6×<br>受伤暂停训练</td>
+      <td>3×<br>休息日</td>
+      <td>4✔<br>综合热身一组<br>腹肌撕裂者强化<br>全身肌肉放松</td>
+      <td>5×<br>休息日</td>
+      <td>6✔<br>综合热身一组<br>哑铃胸部塑形<br>全身肌肉放松</td>
    </tr>
   <tr align="center">
       <td>7×<br>受伤暂停训练</td>
