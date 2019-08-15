@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <th colspan="7">July</th>
+        <th colspan="7">August</th>
     </tr>
     <tr align="center">
         <td>S</td>
@@ -18,8 +18,14 @@
    </tr>
   <tr align="center">
       <td></td>
-      <td>1×<br>受伤暂停训练</td>
-      <td>2×<br>受伤暂停训练</td>
+      <td>1×<br>休息日</td>
+      <td>2×<br>综合热身一组，
+深蹲跳12x4
+交替箭步蹲12x3
+杠铃硬拉 12x4
+卷腹 12x4
+俄罗斯转体 12x4
+全身拉伸一组</td>
       <td>3×<br>受伤暂停训练</td>
       <td>4×<br>受伤暂停训练</td>
       <td>5×<br>受伤暂停训练</td>
