@@ -49,7 +49,7 @@
   <tr align="center">
       <td>18✔<br>综合热身一组<br>腹肌撕裂者强化<br>全身肌肉放松</td>
       <td>19×<br>下班晚休息一天</td>
-      <td>20</td>
+      <td>20✔<br>引体向上10x2</td>
       <td>21</td>
       <td>22</td>
       <td>23</td>
