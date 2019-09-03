@@ -3,6 +3,8 @@
 
 ## 2019
 
+* [August](mouth/August.md)
+
 <table>
     <tr>
         <th colspan="7">September</th>
