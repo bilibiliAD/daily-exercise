@@ -28,7 +28,7 @@
       <td>1✔<br>综合热身一组<br>哑铃手臂轰炸<br>全身拉伸一组</td>
    </tr>
   <tr align="center">
-      <td>2<br></td>
+      <td>2×<br>下班晚，休息一天</td>
       <td>3<br></td>
       <td>4<br></td>
       <td>5<br></td>
