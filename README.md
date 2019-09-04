@@ -25,7 +25,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>1<br></td>
+      <td>1✔<br>综合热身一组<br>哑铃手臂轰炸<br>全身拉伸一组</td>
    </tr>
   <tr align="center">
       <td>2<br></td>
