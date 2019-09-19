@@ -23,15 +23,15 @@
       <td>2×<br>下班晚，休息一天</td>
       <td>3<br></td>
       <td>4<br></td>
-      <td>5<br></td>
+      <td>5✔<br>游泳1小时</td>
       <td>6<br></td>
-      <td>7<br></td>
+      <td>7✔<br>综合热身一组<br>哑铃胸部塑形<br>全身肌肉放松</td>
    </tr>
   <tr align="center">
-      <td>8<br></td>
+      <td>8✔<br>上斜俯卧撑20x2<br>深蹲12x2<br>哑铃弯举12x2<br>交替箭步蹲12x2<br>屈腿卷腹12x2</td>
       <td>9<br></td>
       <td>10<br></td>
-      <td>11<br></td>
+      <td>11✔<br>游泳1小时</td>
       <td>12<br></td>
       <td>13<br></td>
       <td>14<br></td>
