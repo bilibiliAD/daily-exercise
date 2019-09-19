@@ -48,7 +48,7 @@
   <tr align="center">
       <td>16<br></td>
       <td>17<br></td>
-      <td>18<br></td>
+      <td>18✔<br>综合热身一组<br>深蹲跳12x3<br>交替箭步蹲12x3<br>杠铃硬拉 12x3<br>卷腹 12x3<br>俄罗斯转体12x3<br>全身拉伸一组</td>
       <td>19<br></td>
       <td>20<br></td>
       <td>21<br></td>
